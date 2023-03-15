@@ -1,0 +1,9 @@
+.mainblock{
+    border: 2px solid red;
+    width: 400px;
+    text-align: center;
+    justify-content: center;
+}
+.childblock{
+    border: 2px solid yellow;
+}
